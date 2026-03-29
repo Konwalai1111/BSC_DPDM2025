@@ -2,13 +2,6 @@
 
 > Konwalai Sansing 663020276-9
 
-## สารบัญ
-
-> | รายการ | รายละเอียด | หมายเหตุ | เวลา |
-> | - | - | - | - |
-> | Readme | - | - | 26/11/2025 |
-> | - | - | - | - |
-
 ### เงื่อนไขรายวิชา
 
 > | Work | Details | Scores |
@@ -21,12 +14,37 @@
 > | GitHub |   | 5% |
 > | Total | = | 100% |
 
-### Lecture
+## Lecture & Homework
 > | Title | Description |
 > | - | - |
 > | Text Book | [Text Book](https://drive.google.com/file/d/1yynq7Mdf0pbOXktim4AvSkmBm1-VJedP/view?usp=sharing) |
+> | ปัญญาประดิษฐ์ Artificial Intelligence	 | [ปัญญาประดิษฐ์ (AI)](https://drive.google.com/file/d/1Q1e9zb1M8iGZmjDvaWpISva-StO3JJoe/view?usp=sharing) |
 > | Chapter 1: Introduction | [Introduction](https://drive.google.com/file/d/1Q1ZcU3ykV9kWr5-Izzokd16VrZvbYh35/view?usp=sharing) |
 > | Chapter 2: Getting to Know Your Data	 | [Getting to Know Your Data](https://drive.google.com/file/d/1Q1e9zb1M8iGZmjDvaWpISva-StO3JJoe/view?usp=sharing) |
+> | Chapter 3: Data Preprocessing	 | [Preprocessing](https://drive.google.com/file/d/1abb-cSIZJF2jIdXf5HvXtrwIVawMHj1v/view?usp=drive_link) |
+> | Chapter 6: Mining Frequent Patterns, Association and Correlations	 | [FPBasic](https://drive.google.com/file/d/1yFTtHbGHinXnn6Gnk4JdTn5fzY9OpaDt/view?usp=drive_link) |
+> | Chapter 8: Classification	 | [ClassBasic](https://drive.google.com/file/d/1SjMzH44CeP7x79zehodnvRguBwBruL2Y/view?usp=drive_link) |
+> | Chapter 9: Classification	 | [ClassAdvance](https://drive.google.com/file/d/1M0nlXiNy_S_FfGn-RQaTTY0nqlBT7aRq/view?usp=drive_link) |
+> | Chapter 10: Cluster Analysis	 | [Cluster Analysis Basic](https://drive.google.com/file/d/1M0nlXiNy_S_FfGn-RQaTTY0nqlBT7aRq/view?usp=drive_link) |
+> | Homework : Pattern form movie india	 | [Presentation:Pattern form movie india](https://drive.google.com/file/d/1RXbngJFCXc0jtAqZbGrpsDOT8V-RnkY4/view?usp=drive_link) |
+
+
+## Project
+> | Title | Description |
+> | - | - |
+> | Presentation | [Project การพยากรณ์ปริมาณน้ำฝนรายเดือน](https://drive.google.com/file/d/1jw0CWbkTcgDcTMTOd148QyUJdqULWmih/view?usp=drive_link) |
+
+### วัตถุประสงค์ของโปรเจกต์
+
+เพื่อเปรียบเทียบการพยากรณ์ปริมาณน้ำฝนของแต่ละโมเดล และหาโมเดลที่มีประสิทธิภาพดีที่สุด
+
+### โมเดลที่ใช้
+> 1. Long Short-Term Memory (LSTM)
+> 2. Transformed Target Regressor (TTR)
+> 3. Decision Tree Regressor
+> 4. Canonical Correlation Analysis (CCA)
+
+---
 
 # Data Mining
 
