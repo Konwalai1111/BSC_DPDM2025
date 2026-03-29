@@ -2,7 +2,7 @@
 
 > Konwalai Sansing 663020276-9
 
-### เงื่อนไขรายวิชา
+### เงื่อนไขรายวิชา 📋
 
 > | Work | Details | Scores |
 > | - | - | - |
@@ -14,7 +14,7 @@
 > | GitHub |   | 5% |
 > | Total | = | 100% |
 
-## Lecture & Homework
+## Lecture & Homework 💼
 > | Title | Description |
 > | - | - |
 > | Text Book | [Text Book](https://drive.google.com/file/d/1yynq7Mdf0pbOXktim4AvSkmBm1-VJedP/view?usp=sharing) |
@@ -29,7 +29,7 @@
 > | Homework : Pattern form movie india	 | [Presentation:Pattern form movie india](https://drive.google.com/file/d/1RXbngJFCXc0jtAqZbGrpsDOT8V-RnkY4/view?usp=drive_link) |
 
 
-## Project
+## Project 📚
 > | Title | Description |
 > | - | - |
 > | Presentation | [Project การพยากรณ์ปริมาณน้ำฝนรายเดือน](https://drive.google.com/file/d/1jw0CWbkTcgDcTMTOd148QyUJdqULWmih/view?usp=drive_link) |
